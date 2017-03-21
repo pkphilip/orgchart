@@ -12,6 +12,7 @@
 
 ## Screenshot
 
+![Screenshot of Javascript Organization Chart component](https://github.com/pkphilip/orgchart/screenshot.png "Screenshot")
 
 
 ## Tutorial 
