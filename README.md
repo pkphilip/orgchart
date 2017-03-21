@@ -1,5 +1,12 @@
 # Javascript organization chart 
 
+## History
+This javascript component was initially created in 2009 before there were equivalent components available from Yahoo, Google etc. However, it is only being released into Github now. Prior to this, the component has been released for commercial or noncommercial use to anyone who asked the author for it.
+
+**Author:** Prem Kurian Philip
+**Date:** 2009-01-02
+
+
 ## Introduction 
 
 1. This javascript organisation chart does not rely on any external dependencies such as jquery, prototype etc. The organisation chart is rendered using just tables, rows and columns.
