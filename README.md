@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-![Screenshot of Javascript Organization Chart component](https://github.com/pkphilip/orgchart/screenshot.png "Screenshot")
+![Screenshot of Javascript Organization Chart component](https://github.com/pkphilip/orgchart/blob/master/screenshot.png "Screenshot")
 
 
 ## Tutorial 
