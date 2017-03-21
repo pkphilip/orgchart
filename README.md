@@ -21,6 +21,7 @@ This javascript component was initially created in 2009 before there were equiva
 
 ![Screenshot of Javascript Organization Chart component](https://github.com/pkphilip/orgchart/blob/master/screenshot.png "Screenshot")
 
+**IMPORTANT**: Please see "index.html" in the repository for a full sample.
 
 ## Tutorial 
 
